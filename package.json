@@ -1,0 +1,25 @@
+{
+  "name": "node_bb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oicoru10/node_bb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oicoru10/node_bb/issues"
+  },
+  "homepage": "https://github.com/oicoru10/node_bb#readme",
+  "dependencies": {
+    "node": "^16.10.0",
+    "node-cron": "^3.0.0",
+    "superagent": "^6.1.0",
+    "superagent-retry": "^0.6.0"
+  }
+}
